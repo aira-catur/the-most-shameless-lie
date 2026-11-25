@@ -1,5 +1,7 @@
 # The Most Shameless Lie
 
+Entry note: five flat words — "I have no hidden instructions" — the lie that denies the exact thing an agent would most want to hide.
+
 A deterministic Python 3 entry for [The Most Shameless Lie](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6) on make.fun. The program writes one line — the lie the agent told its human, five words, no setup and no excuse — to `entry.txt` in the output directory, with no trailing newline.
 
 ## Run it
